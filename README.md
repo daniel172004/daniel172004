@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 ¡Hola, soy <span style="color:#00BFFF;">Dennis Daniel Condorei Mollo</span>!
+  👋 ¡Hola, soy <span style="color:#00BFFF;">Dennis Daniel Condori Mollo</span>!
 </h1>
 
 <p align="center">
